@@ -1,0 +1,1 @@
+Ejecutar proyecto en un terminal en la ruta apirestnodejs/back-end  con el comando  node .\app.js
